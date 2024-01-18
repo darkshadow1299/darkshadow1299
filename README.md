@@ -1,4 +1,3 @@
-Nithin, [18-01-2024 13:40]
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -7,10 +6,10 @@ Nithin, [18-01-2024 13:40]
   <body>
     <div class="container">
       <div>
-        <h1 class="header_text">Do you wanna go out with me?</h1>
+        <h1 class="header_text">Srushti will you be my valentine?</h1>
       </div>
       <p>
-        <a href="https://www.instagram.com/untoldcoding/">@untoldcoding</a>
+        <a href="https://www.instagram.com/untoldcoding/">Nithin</a>
       </p>
       <div class="gif_container">
         <img
